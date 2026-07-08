@@ -1,8 +1,8 @@
-# 👋 Hi, I'm SRINIVAS VANAPALLI
+# 👋 Hi, I'm Srinu V
 
 **DevSecOps Engineer**  
-📞 +91-6305191306 · ✉️ srinivasvanapalli0499@gmail.com  
-📍 Hyderabad, Telangana  
+✉️ srinivasvanapalli0499@gmail.com  
+📍 Nidadavole, Andhra Pradesh 
 🔗 [LinkedIn](https://www.linkedin.com/in/srinu-vanapalli/) · [GitHub](https://github.com/Srinuas/Myinfo.git)
 
 ---
