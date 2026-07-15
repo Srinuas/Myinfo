@@ -27,19 +27,25 @@ Results-oriented DevSecOps Engineer with 4 years of enterprise experience at Tat
 
 ## 💼 Experience
 
-### Tata Consultancy Services (TCS) — DevSecOps Engineer / Cloud Engineer  
-*Dec 2021 – Present*
+### Tata Consultancy Services (TCS)
+### DevSecOps Engineer / Cloud Engineer  
+*Apr 2023 – July 2026*
 
-- Provisioned highly available AWS infrastructure using Terraform (VPC, EC2, S3, RDS, etc.)
-- Architected Jenkins CI/CD pipelines and implemented GitOps with ArgoCD for automated Kubernetes deployments.
-- Managed 15+ AWS EKS clusters and ECR repositories; optimized container lifecycles with Docker and Helm.
-- Embedded Shift-Left security by integrating Trivy and SonarQube into build pipelines.
-- Authored Ansible playbooks, reducing manual setup time by 40%.
-- Deployed Prometheus, Grafana, and CloudWatch for real-time observability.
-- Developed Shell scripts to streamline operational workflows.
+- Provisioned and managed highly available AWS cloud infrastructure (VPC, EC2, S3, RDS) utilizing Terraform, ensuring 
+scalable and secure environments for enterprise applications.
+- Administered 15+ AWS EKS clusters and ECR repositories, achieving 99.9% uptime; optimized container lifecycles using 
+Docker (.dockerignore, multi-stage builds) and customized Helm charts. 
+- Architected CI/CD pipelines using Jenkins, increasing deployment frequency by 50%, and established a GitOps continuous 
+delivery workflow via ArgoCD for automated Kubernetes deployments. 
+- Embedded "Shift-Left" security principles by integrating Trivy and SonarQube into automated build pipelines, reducing 
+critical vulnerabilities in early stages by 50%. 
+- Deployed Prometheus, Grafana, and AWS CloudWatch for real-time observability, establishing proactive alerting 
+mechanisms to minimize mean time to resolution (MTTR). 
+- Developed Bash utility scripts to automate repetitive operational workflows, saving approximately 16 hours per week and 
+eliminating manual configuration errors. 
 
-### TCS — Azure DevOps & Cloud Infrastructure  
-*Dec 2021 – Jan 2023*
+### Azure DevOps & Cloud Infrastructure  
+*Jan 2022 – Mar 2023*
 
 - Orchestrated CI/CD workflows using Azure DevOps (Pipelines, Repos, Releases, Artifacts) and managed Agile projects via Azure Boards.
 - Provisioned Azure VMs, VNet, Storage, Cosmos DB, and integrated Logic Apps.
